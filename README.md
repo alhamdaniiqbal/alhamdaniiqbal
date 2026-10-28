@@ -69,7 +69,13 @@ These are **areas of interest**, not claims that repositories have already been 
 
 <div align="center">
 
-<img alt="GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=alhamdaniiqbal&bg_color=0D0A16&color=E7D8F5&line=D4AF37&point=8C6A0A&area=true&area_color=512076&hide_border=true" width="100%" />
+
+## GitHub Activity
+
+Explore my open-source contributions, cybersecurity projects, and AI security research.
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Contributions-D4AF37?style=for-the-badge&logo=github&logoColor=white&labelColor=2E1065)](https://github.com/alhamdaniiqbal?tab=overview)
+
 
 <sub>Activity graph is provided by a third-party service and may occasionally be unavailable.</sub>
 
