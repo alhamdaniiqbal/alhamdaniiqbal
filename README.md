@@ -69,10 +69,12 @@ These are **areas of interest**, not claims that repositories have already been 
 
 <div align="center">
 
+## GitHub Activity
 
-### GitHub Activity
+Explore my open-source contributions, cybersecurity projects, and AI security research.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alhamdaniiqbal&bg_color=0D0A16&color=D4AF37&line=7C3AED&point=F5C451&area=true&area_color=2E1065&hide_border=true)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Contributions-D4AF37?style=for-the-badge&logo=github&logoColor=white&labelColor=2E1065)](https://github.com/alhamdaniiqbal?tab=overview)
+
 
 <sub>Activity graph is provided by a third-party service and may occasionally be unavailable.</sub>
 
